@@ -1,6 +1,6 @@
 ## Olá, me chamo Monique 😊
 
-Sou graduanda em Ciência da Computação pela UDESC.
+Sou Mestranda em Computação Aplicada pela UDESC.
 
 Durante a graduação, participei do grupo de pesquisa LARVA, onde trabalhei com jogos aplicados à educação e à saúde, o que acabou direcionando bastante meus interesses.
 Também atuei como monitora de linguagens formais, gostei bastante da parte de ensinar — explicar conceitos e ver quando aquilo começa a fazer sentido pra alguém.
