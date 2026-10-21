@@ -1,16 +1,18 @@
-## Olá, me chamo Monique 😊
+# Olá! Sou a Monique 👋
 
-Sou Mestranda em Computação Aplicada pela UDESC.
+🎓 **Mestranda em Computação Aplicada pela UDESC** e bacharel em Ciência da Computação.
 
-Durante a graduação, participei do grupo de pesquisa LARVA, onde trabalhei com jogos aplicados à educação e à saúde, o que acabou direcionando bastante meus interesses.
-Também atuei como monitora de linguagens formais, gostei bastante da parte de ensinar — explicar conceitos e ver quando aquilo começa a fazer sentido pra alguém.
-Também já trabalhei com dados, principalmente na parte de manipulação, análise e criação de dashboards, então acabo transitando entre áreas mais teóricas e mais práticas.
+Meu interesse pela computação está na possibilidade de explorar diferentes áreas, conectar teoria e prática e desenvolver soluções para problemas reais.
 
-No meu TCC, exploro geração automática de código para Raspberry Pi com base em teoria de controle supervisório, utilizando autômatos para modelar sistemas e gerar código de forma automática.
+Durante a graduação, participei do grupo de pesquisa **LARVA (Laboratório de Aplicações de Vídeo Digital)**, onde trabalhei com jogos sérios aplicados à saúde, incluindo atividades de testes e avaliação de software. Também atuei como monitora de **Linguagens Formais e Autômatos**, experiência que despertou meu interesse pelo ensino e pela comunicação de conceitos complexos de forma acessível.
 
-Gosto de aprender coisas novas, começar projetos diferentes e explorar áreas da computação sem ficar muito presa a uma só.
+No meu Trabalho de Conclusão de Curso (TCC), investiguei a **geração automática de código para sistemas embarcados com Raspberry Pi**, com base na Teoria de Controle Supervisório e na modelagem de sistemas por autômatos.
 
-Fora da área, gosto de coisas simples tipo tomar um café ☕, ler um livro ou conversar sobre qualquer assunto aleatório.
+Também tenho experiência com **análise e processamento de dados**, consultas SQL, bancos de dados, construção de dashboards e automação de processos. Atualmente, atuo com análise de dados educacionais e ensino de computação, explorando diferentes formas de utilizar a tecnologia para apoiar a aprendizagem e a pesquisa.
+
+Gosto de aprender novas tecnologias, desenvolver projetos e transitar entre diferentes áreas da computação, especialmente pesquisa e desenvolvimento, sistemas embarcados, análise de dados e educação tecnológica.
+
+Fora do código, gosto de tomar um café ☕, ler um bom livro 📚 e conversar sobre assuntos aleatórios.
 
 ### Em resumo, já atuei com:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
